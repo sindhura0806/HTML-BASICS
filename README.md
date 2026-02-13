@@ -141,8 +141,9 @@
 </body>
 </html>
 
-**OUT PUT**
-![Day-1](Day-1/img/day-1-output.png)
+## Output
+
+![Day 1 Output](Day-1/img/day-1-output.png)
 
 
 
