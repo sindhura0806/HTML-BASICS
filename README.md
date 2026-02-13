@@ -100,7 +100,7 @@
     <h1>My Profile</h1>
 
     <!-- Profile Photo -->
-     <img src="img/SINDHURA.jpg"
+     <img src="img/SINDHU.jpg"
      alt="My Photo"
      width="150"
      height="150"
