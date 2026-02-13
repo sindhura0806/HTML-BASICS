@@ -132,7 +132,7 @@
         <p>Email: sindhura0806@gmail.com</p>
         <p>
             GitHub:
-            <a href="https://github.com/srujanach2005-star" target="_blank">
+            <a href="https://github.com/sindhura0806" target="_blank">
                 Visit My GitHub
             </a>
         </p>
